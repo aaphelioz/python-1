@@ -59,5 +59,24 @@ else:
     print("Aluno Reprovado")
 
 
+# Quarto Exercício
 
+class retangulo:
+
+  def __init__(self, largura, altura):
+        self.largura = largura
+        self.altura = altura
+
+  def calcular_perimetro(self, largura, altura):
+        return  2 * (self.largura + self.altura)
+
+retangulo = retangulo(5,10)
+perimetro = retangulo.calcular_perimetro(2, 5)
+
+print(f"largura: {retangulo.largura}")
+print(f"altura: {retangulo.altura}")
+print(f"perimetro: {perimetro}")
+
+
+# Quinto Exercício
 

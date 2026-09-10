@@ -1,4 +1,4 @@
-# Primeiro Exercício
+# Primeiro Exercício Py
 
 class Pessoa:
 
@@ -11,7 +11,7 @@ print(Pessoa.nome)
 print(Pessoa.idade)
 
 
-# Segundo Exercício
+# Segundo Exercício Py
 
 class Produto1:
 
@@ -38,7 +38,7 @@ print(f"Preço: {Produto2.preco}")
 print(f"Estoque: {Produto2.estoque}")
 
 
-# Terceiro Exercício
+# Terceiro Exercício Py
 
 class Aluno:
 
@@ -59,7 +59,7 @@ else:
     print("Aluno Reprovado")
 
 
-# Quarto Exercício
+# Quarto Exercício Py
 
 class retangulo:
 
@@ -78,7 +78,7 @@ print(f"altura: {retangulo.altura}")
 print(f"perimetro: {perimetro}")
 
 
-# Quinto Exercício
+# Quinto Exercício Py
 
 class conta_bancaria:
   def __init__(self, saldo):
